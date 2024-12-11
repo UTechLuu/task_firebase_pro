@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910085449336",
+    "project_id": "task-firebase-pro-fae63",
+    "storage_bucket": "task-firebase-pro-fae63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910085449336:android:3e87953abb23fc93beef8d",
+        "android_client_info": {
+          "package_name": "task.firebase.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBC70SL3OkGR1lX4XgZBE4jhNmE8paa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
